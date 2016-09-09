@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "jquery-webpart-client-side-solution",
+    "id": "44be9b7e-7f71-4de3-83bc-87541839c5c6",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "jquery-webpart.spapp"
+  }
+}
